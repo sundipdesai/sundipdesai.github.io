@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Post - My Musings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Master of Non</h1>
+        <p>Meandering through our Universe</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="posts.html">Posts</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Master of None</h2>
+        <p><em>Published on: January 12, 2025</em></p>
+        <p>
+            This is my first post!
+        </p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Master of None. All rights reserved.</p>
+    </footer>
+</body>
+</html>
